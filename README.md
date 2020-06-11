@@ -1,2 +1,0 @@
-# ReactExperiment
-Created with CodeSandbox
